@@ -2,7 +2,7 @@
 a colab notebook repo for using Diffusers library for various tasks using pre-defined functions by me yourself! 
 
 
-#google wont ban this for free users as it is purely python based and we dont even import external scripts from anywhere, just like the  god intended way of using colab 
+# Google wont ban this for free users as it is purely python based and we dont even import external scripts from anywhere, just like the god intended way of using colab 
 -ckperry
 
 
