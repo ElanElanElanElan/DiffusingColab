@@ -10,6 +10,6 @@ click on the .ipynb file and open in colab to open it in colab and the notebook 
 
 has features like plotting your generated images or using loras! more on the way in the future hopefully-
 
-features to be added in future: Custom model downloads from civitai, etc, Lora comparision and Img2img
+features in works: Custom model downloads from civitai, etc, Lora comparision and Img2img
 
 Big thanks to SilverandJade on Discord for helping and suggesting some wonderful features for this colab!!
