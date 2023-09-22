@@ -12,4 +12,6 @@ has features like plotting your generated images or using loras! more on the way
 
 features to be added in future: Custom model downloads from civitai, etc, Lora comparision and Img2img
 
+use the Intesting branch if you want features like fixed seed, lora comparisions, etc! that branch will be merged with main once fixed seed and custom downloads are more bug tested and a new Img2imgtest branch will be created!
+
 Big thanks to SilverandJade on Discord for helping and suggesting some wonderful features for this colab!!
